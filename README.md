@@ -39,4 +39,4 @@ Platform	Link
 
 Email	saurabhsingh505152@gmail.com
 GitHub	https://github.com/saurabh54-e
-LinkedIn	https://www.linkedin.com/in/saurabh-singh-e5nd4
+LinkedIn	https://www.linkedin.com/in/saurabhsingh54
